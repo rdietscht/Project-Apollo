@@ -1,5 +1,5 @@
 # Apollo
-## A hobby project
+_A hobby project_
 
 > Borrowed directly from Greek mythology,
 > Apollo was a Roman god that inspired music,
