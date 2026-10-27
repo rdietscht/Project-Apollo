@@ -9,3 +9,12 @@ _A hobby project_
 > knowledge. Furthermore, Apollo served as the
 > chief patron of prophets, the source of the
 > gift of prophecy.
+
+## Potential Ideas
+
+* Self-Hosted Multiplayer game
+* Distributed Chat system
+* Programming language
+* Developer Control panel
+* Procedural World generator
+* Colony/Agentic Civilization simulator
